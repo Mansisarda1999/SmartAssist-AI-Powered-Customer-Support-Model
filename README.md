@@ -1,4 +1,8 @@
 # SmartAssist-AI-Powered-Customer-Support-Model
+
+![car](https://github.com/Mansisarda1999/SmartAssist-AI-Powered-Customer-Support-Model/assets/60294261/8a0ce38e-79d5-4f1f-ac4e-1e768ab37a19)
+
+
 An intelligent chatbot application designed to assist customers and support human agents in providing efficient and effective customer service. It leverages state-of-the-art pre-trained Hugging Face Language Models (LLMs) to handle a variety of tasks including sentiment analysis, question answering, text summarization, translation, and more.
 
 * Implemented sentiment analysis functionality using pre-trained Hugging Face LLMs - DistilBERT base uncased
